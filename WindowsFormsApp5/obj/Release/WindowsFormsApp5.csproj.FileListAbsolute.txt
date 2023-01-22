@@ -1,0 +1,11 @@
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.AssemblyReference.cache
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.SuggestedBindingRedirects.cache
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+E:\Visual Studia proekt\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
